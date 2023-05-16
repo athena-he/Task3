@@ -7,4 +7,4 @@
 "Task_3_Results_Summary.pdf" is the summary of results.
 
 
-Note: there is only work on Step 1 and Step 2 so far.
+Note: There is only work on Step 1 and Step 2 so far.
